@@ -4,7 +4,7 @@
 </div>
 
 #### Skills
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=vue-dark)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=bergolho&show_icons=true&theme=vue-dark)
 
 #### Socials
 <div> 
