@@ -4,7 +4,7 @@
 </div>
 
 #### Skills
-[![My Skills](https://skills.thijs.gg/icons?i=c,cpp,python,bash,java)](https://skills.thijs.gg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=vue-dark)
 
 #### Socials
 <div> 
